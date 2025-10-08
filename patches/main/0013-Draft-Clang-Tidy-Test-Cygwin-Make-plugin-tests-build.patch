@@ -1,7 +1,7 @@
-From e84fc9a7b2f83e6f98ffae8e09a8624b716ae2ea Mon Sep 17 00:00:00 2001
+From 7ca2318c8b36828b439d786d115ea58f274385fc Mon Sep 17 00:00:00 2001
 From: kikairoya <kikairoya@gmail.com>
 Date: Mon, 5 May 2025 08:28:22 +0900
-Subject: [PATCH 13/14] (Draft)[Clang-Tidy][Test][Cygwin] Make plugin tests
+Subject: [PATCH 13/16] (Draft)[Clang-Tidy][Test][Cygwin] Make plugin tests
  buildable and pass
 
 ---
