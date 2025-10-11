@@ -1,3 +1,4 @@
 FileSystemTest.permissions
 ProgramEnvTest.TestExecuteEmptyEnvironment
 InterpreterTest.FindMangleNameSymbol
+InterpreterTest.Value
